@@ -13,8 +13,8 @@ const App = () => {
       {/* steps section */}
       <section className="mt-10 ml-14 w-62 ">
         <div className="flex my-5">
-          <div className="h-20 w-20 bg-blue-600 rounded-full inline-flex items-center justify-center">
-          <img src="./secure.png" className="h-12 w-12 " />
+          <div className="h-20 w-20 bg-orange-200 rounded-full inline-flex items-center justify-center">
+          <img src="./shield.png" className="h-12 w-12 " />
           </div>
           <div className="mx-5 max-w-sm">
             <h3>STEP 1</h3>
@@ -26,8 +26,8 @@ const App = () => {
           </div>
         </div>
         <div className="flex my-5 mt-8">
-          <div className="h-20 w-20 bg-blue-600 rounded-full inline-flex items-center justify-center">
-          <img src="./wave.png" className="h-12 w-12 " />
+          <div className="h-20 w-20 bg-orange-200 rounded-full inline-flex items-center justify-center">
+          <img src="./sound-wave.png" className="h-12 w-12 " />
           </div>
           <div className="mx-5 max-w-sm">
             <h3>STEP 2</h3>
@@ -39,8 +39,8 @@ const App = () => {
           </div>
         </div>
         <div className="flex my-5 mt-8">
-          <div className="h-20 w-20 bg-blue-600 rounded-full inline-flex items-center justify-center">
-          <img src="./anchor.png" className="h-12 w-12 " />
+          <div className="h-20 w-20 bg-orange-200 rounded-full inline-flex items-center justify-center">
+          <img src="./anchorBlue.png" className="h-12 w-12 " />
           </div>
           <div className="mx-5 max-w-sm">
             <h3>STEP 3</h3>
